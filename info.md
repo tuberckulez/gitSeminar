@@ -1,4 +1,4 @@
-# Заголовок 3-го семинара
+
 
  #  Основные команды git
 
@@ -31,17 +31,17 @@
 
 * git branch - посмотреть список веток
 
-* git branch <branch_name> - создание новой ветки
+* git branch _<branch_name>_ - создание новой ветки
 
-* git checkout <branch_name> - создает ветку branch_name
+* git checkout _<branch_name>_ - создает ветку branch_name
 
-* git checkout -b <branch_name> - создает и переходит в ветку branch_name
+* git checkout _-b <branch_name>_ - создает и переходит в ветку branch_name
 
-* git branch - d <branch_name> - удаление ветки
+* git branch _- d <branch_name>_ - удаление ветки
 
-* git merge branch_name - слияние текущей ветки с branch_name
+* git merge _branch_name_ - слияние текущей ветки с branch_name
 
-* git log --graph - визуальное отображение веток
+* git log _--graph_ - визуальное отображение веток
 
 
 
@@ -63,7 +63,7 @@
 _Курсив текст_
 
 | Это простой | заголовок | таблицы||
-|:------------|:---------:|-------:|---------:|
+|:------------|---------:|-------:|---------:|
 | Data 1 | Data 2| Data 3| Data 4|
 | Jun|Feb|Mar|Apr|
 
