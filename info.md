@@ -46,10 +46,10 @@
 
  + git pull – получение изменений и слияние с локальной версией
 
+   [Презентация по работе с удалённым репозиторием](https://docs.google.com/presentation/d/1n1q5j_sZZ6jKfcfN7ss5H_3YBsjUo-VHuRiB9MjhiV4/edit#slide=id.g120566e8b2d_0_70)
+
     Продолжаем бдить за работой
 
    ![Продолжаем бдить за работой](https://media.tenor.com/k0cPQlr82ycAAAAC/sauron-lotr.gif)
-
-   [Презентация по работе с удалённым репозиторием](https://docs.google.com/presentation/d/1n1q5j_sZZ6jKfcfN7ss5H_3YBsjUo-VHuRiB9MjhiV4/edit#slide=id.g120566e8b2d_0_70)
 
 # **Конец**
